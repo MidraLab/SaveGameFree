@@ -1,0 +1,15 @@
+﻿{
+  "name": "com.midralab.save-game-free",
+  "displayName": "Save Game Free",
+  "version": "2.5.0",
+  "unity": "2021.3",
+  "description": "free and simple but powerful solution for saving and loading game data"
+
+  "keywords": [
+    "save",
+    "load"
+  ],
+
+  "dependencies": {
+  }
+}
