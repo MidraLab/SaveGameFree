@@ -8,6 +8,15 @@ Save Game Free is a free and simple but powerful solution for saving and loading
 	<img src="https://raw.githubusercontent.com/BayatGames/SaveGameFree/master/Assets/BayatGames/SaveGameFree/PressKit/Unity%20Package%20Key%20Images%20-%20Large-01.png" alt="Save Game Free Logo" />
 </p>
 
+<!-- TOC -->
+* [Save Game Free](#save-game-free)
+  * [Features](#features)
+  * [Download](#download)
+  * [Getting Started](#getting-started)
+  * [Resources](#resources)
+  * [License](#license)
+<!-- TOC -->
+
 ## Features
 
 The below features made Save Game Free excellent:
@@ -27,6 +36,14 @@ The below features made Save Game Free excellent:
 
 [:fire: Download the Source Code](https://github.com/BayatGames/SaveGameFree/archive/master.zip)
 
+## Install
+You can also add it directly from GitHub on Unity 2019.4+. Note that you won't be able to receive updates through Package Manager this way, you'll have to update manually.
+
+1. open Package Manager
+2. click +
+3. select Add from Git URL
+4. paste https://github.com/MidraLab/SaveGameFree.git/Assets/BayatGames/SaveGameFree
+5. click Add
 ## Getting Started
 
 Here is a simple usage of Save Game Free:
