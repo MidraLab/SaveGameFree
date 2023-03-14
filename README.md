@@ -42,7 +42,7 @@ You can also add it directly from GitHub on Unity 2019.4+. Note that you won't b
 1. open Package Manager
 2. click +
 3. select Add from Git URL
-4. paste https://github.com/MidraLab/SaveGameFree.git/Assets/BayatGames/SaveGameFree
+4. paste https://github.com/MidraLab/SaveGameFree.git?path=/Assets/BayatGames/SaveGameFree
 5. click Add
 ## Getting Started
 
